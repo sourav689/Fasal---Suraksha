@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "fasal_suraskha_login_process",
+    "slug": "snack-1ab340c5-c034-4b98-bdc8-3e24a6961370",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.example.fasalsuraksha"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-localization"
+    ]
+  }
+}
